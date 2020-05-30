@@ -20,5 +20,7 @@ Learn Git Branching 사이트를 열어 모든 과제를 직접 끝내 봅시다
 여기 있는 명령어를 모두 외우지 않아도 괜찮습니다. git으로 어떤 작업을 할 수 있는지 정도만 알아 두었다가, 필요할 때 다시 Learn Git Branching 사이트로 돌아와 가상 환경에서 실습한 후 실무에 적용하는 개발자들이 많습니다. 겁먹지 마세요!
 
 
+![funsomthing_main](../resources/funsomthing_main.png)
+![lfunsomthing_remote](../resources/funsomthing_remote.png)
 
 
